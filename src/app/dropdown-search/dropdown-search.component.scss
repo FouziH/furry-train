@@ -1,0 +1,11 @@
+:host {
+    .myInput {
+        height: 50px !important;
+        padding: 10px !important;
+        outline: none;
+        border: none;
+       .mat-select-panel-wrap {
+            margin-top: 6rem;
+        }
+      }
+}
